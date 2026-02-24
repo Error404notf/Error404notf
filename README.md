@@ -2,9 +2,6 @@
 
 ### A curious Frontend Developer and AWS Certified Cloud Practitioner with skills in HTML, CSS, JavaScript, and AWS cloud services. I love solving problems, organizing chaos, and building user-friendly solutions. My journey blends tech, teamwork, and mental health advocacy.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Error404notf&label=Profile views&color=0e75b6&style=flat" alt="Error404notf" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Error404notf" alt="Error404notf" /></a> </p>
 
 - 🔭 I'm currently working on **100Devs MERN Stack software engineering program **
 
